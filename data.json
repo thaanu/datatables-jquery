@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Ahmed",
+        "age" : 25,
+        "class" : "2D"
+    },
+    {
+        "name" : "Mohamed",
+        "age" : 30,
+        "class" : "3E"
+    },
+    {
+        "name" : "Ismail",
+        "age" : 32,
+        "class" : "4A"
+    }
+]
